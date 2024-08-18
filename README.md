@@ -1,4 +1,4 @@
-# Recipe Management Application
+# Recipe Management App
 
 ## Overview
 
