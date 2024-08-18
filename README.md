@@ -3,7 +3,7 @@
 ## Overview
 
 This is a full-stack Recipe Management application built with Node.js, Express, React, and Tailwind CSS. It allows users to create, read, update, and delete recipes, as well as search and sort through their recipe collection.
-The app uses a json file as a db which already has a few recipes as an example.
+The app uses a json file as a db which already has a few example recipes.
 
 ## Features
 
