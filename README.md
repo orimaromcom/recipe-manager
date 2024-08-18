@@ -34,7 +34,7 @@ This is a full-stack Recipe Management application built with Node.js, Express, 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/recipe-management-app.git
+   git clone https://github.com/orimaromcom/recipe-management-app.git
    cd recipe-management-app
    ```
 
