@@ -35,7 +35,7 @@ The app uses a json file as a db which already has a few recipes as an example.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/orimaromcom/recipe-management-app.git
+   git clone https://github.com/orimaromcom/recipe-manager.git
    cd recipe-management-app
    ```
 
