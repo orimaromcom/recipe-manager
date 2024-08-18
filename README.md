@@ -57,7 +57,7 @@ This is a full-stack Recipe Management application built with Node.js, Express, 
 
    ```
    cd backend
-   node server.js
+   npm run start
    ```
 
    The server will start on `http://localhost:3000`.
